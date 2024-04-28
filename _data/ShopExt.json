@@ -212,7 +212,7 @@
       "stats": [
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
-        "-4 shooting",
+        "-10 shooting",
         "+4.0 melee hit chance"
       ],
       "conflicts": [
@@ -230,7 +230,7 @@
         "stats": [
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
-          "-4 shooting",
+          "-10 shooting",
           "+4.0 melee hit chance"
         ],
         "canBypassLimit": false,
